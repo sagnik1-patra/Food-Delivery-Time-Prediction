@@ -1,0 +1,10 @@
+
+Actionable Insights:
+
+1. Optimize delivery routes using distance and traffic data.
+2. Increase delivery staff during rush hours.
+3. Adjust estimated delivery time during bad weather.
+4. Assign high-priority orders to experienced delivery partners.
+5. Use delay prediction to notify customers early.
+6. Analyse vehicle type performance in different traffic conditions.
+7. Improve delivery partner training to reduce delays.

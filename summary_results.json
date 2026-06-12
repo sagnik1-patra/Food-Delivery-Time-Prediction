@@ -1,0 +1,19 @@
+{
+    "Linear Regression": {
+        "Model": "Linear Regression",
+        "MSE": 957.1594101572653,
+        "RMSE": 30.937992988512768,
+        "MAE": 26.523110128427327,
+        "R2 Score": -0.03488864462166319
+    },
+    "Logistic Regression": {
+        "Model": "Logistic Regression",
+        "Accuracy": 0.5,
+        "Precision": 0.5,
+        "Recall": 0.45,
+        "F1 Score": 0.47368421052631576
+    },
+    "ROC AUC": 0.4774999999999999,
+    "Dropped Empty Columns": [],
+    "Output Folder": "C:\\Users\\NXTWAVE\\Downloads\\Food Delivery Time Prediction"
+}
